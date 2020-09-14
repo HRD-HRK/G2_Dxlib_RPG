@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "G2_Dxlib_RPG", "G2_Dxlib_RPG.vcxproj", "{86FD8DF3-D1E7-4FAC-B3CE-CBA845004369}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86FD8DF3-D1E7-4FAC-B3CE-CBA845004369}.Debug|x64.ActiveCfg = Debug|x64
+		{86FD8DF3-D1E7-4FAC-B3CE-CBA845004369}.Debug|x64.Build.0 = Debug|x64
+		{86FD8DF3-D1E7-4FAC-B3CE-CBA845004369}.Debug|x86.ActiveCfg = Debug|Win32
+		{86FD8DF3-D1E7-4FAC-B3CE-CBA845004369}.Debug|x86.Build.0 = Debug|Win32
+		{86FD8DF3-D1E7-4FAC-B3CE-CBA845004369}.Release|x64.ActiveCfg = Release|x64
+		{86FD8DF3-D1E7-4FAC-B3CE-CBA845004369}.Release|x64.Build.0 = Release|x64
+		{86FD8DF3-D1E7-4FAC-B3CE-CBA845004369}.Release|x86.ActiveCfg = Release|Win32
+		{86FD8DF3-D1E7-4FAC-B3CE-CBA845004369}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19D2A837-D144-4E42-9E75-98571A407C2C}
+	EndGlobalSection
+EndGlobal
